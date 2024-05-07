@@ -1,2 +1,2 @@
 # 07-STUDENT-MANAGEMENT-SYSTEM
-This is a Object-Oriented-Programming
+This is a Object-Oriented-Programming(OOP)
